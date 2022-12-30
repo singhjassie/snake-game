@@ -1,4 +1,3 @@
-#!python3.9
 from turtle import Turtle, Screen
 
 

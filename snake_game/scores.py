@@ -1,4 +1,3 @@
-#!python3.9
 from animation import Animator
 
 class Score(Animator):

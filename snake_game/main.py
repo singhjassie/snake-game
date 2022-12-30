@@ -1,4 +1,4 @@
-#!/usr/bin/python3.9
+#! python3.9
 from snake import Snake
 from screen_animation import ScreenAnimation
 from options import Settings

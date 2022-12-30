@@ -1,4 +1,3 @@
-#!python3.9
 from animation import AnimatorSnake, Animator
 from turtle import Screen
 from time import sleep
